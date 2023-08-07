@@ -217,7 +217,7 @@
         ],
         "version": 2,
         "internalName": "EstrenosDoramasProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/EstrenosDoramasProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/EstrenosDoramasProvider.cs3",
         "name": "EstrenosDoramasProvider"
     },
     {
@@ -236,7 +236,7 @@
         ],
         "version": 7,
         "internalName": "JKAnimeProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/JKAnimeProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/JKAnimeProvider.cs3",
         "name": "JKAnimeProvider"
     },
     {
@@ -255,7 +255,7 @@
         ],
         "version": 2,
         "internalName": "LACartoonsProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/LACartoonsProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/LACartoonsProvider.cs3",
         "name": "LACartoonsProvider"
     },
     {
@@ -274,7 +274,7 @@
         ],
         "version": 4,
         "internalName": "MonoschinosProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/MonoschinosProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/MonoschinosProvider.cs3",
         "name": "MonoschinosProvider"
     },
     {
@@ -293,7 +293,7 @@
         ],
         "version": 3,
         "internalName": "MundoDonghuaProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/MundoDonghuaProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/MundoDonghuaProvider.cs3",
         "name": "MundoDonghuaProvider"
     },
     {
@@ -313,7 +313,7 @@
         "version": 19,
         "internalName": "NineAnimeProvider",
         "description": "Watch 9anime with the help of the Consumet API.",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/NineAnimeProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/NineAnimeProvider.cs3",
         "name": "NineAnimeProvider"
     },
     {
@@ -331,7 +331,7 @@
         ],
         "version": 1,
         "internalName": "PeliculasFlixProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/PeliculasFlixProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/PeliculasFlixProvider.cs3",
         "name": "PeliculasFlixProvider"
     },
     {
@@ -350,7 +350,7 @@
         ],
         "version": 5,
         "internalName": "PelispediaProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/PelispediaProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/PelispediaProvider.cs3",
         "name": "PelispediaProvider"
     },
     {
@@ -369,7 +369,7 @@
         ],
         "version": 3,
         "internalName": "Pelisplus4KProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/Pelisplus4KProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/Pelisplus4KProvider.cs3",
         "name": "Pelisplus4KProvider"
     },
     {
@@ -388,7 +388,7 @@
         ],
         "version": 3,
         "internalName": "PelisplusHDProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/PelisplusHDProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/PelisplusHDProvider.cs3",
         "name": "PelisplusHDProvider"
     },
     {
@@ -407,7 +407,7 @@
         ],
         "version": 2,
         "internalName": "PelisplusSOProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/PelisplusSOProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/PelisplusSOProvider.cs3",
         "name": "PelisplusSOProvider"
     },
     {
@@ -425,7 +425,7 @@
         ],
         "version": 1,
         "internalName": "PlayhubProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/PlayhubProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/PlayhubProvider.cs3",
         "name": "PlayhubProvider"
     },
     {
@@ -444,7 +444,7 @@
         ],
         "version": 2,
         "internalName": "SeriesflixProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/SeriesflixProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/SeriesflixProvider.cs3",
         "name": "SeriesflixProvider"
     },
     {
@@ -463,7 +463,7 @@
         ],
         "version": 3,
         "internalName": "SeriesMetroProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/SeriesMetroProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/SeriesMetroProvider.cs3",
         "name": "SeriesMetroProvider"
     },
     {
