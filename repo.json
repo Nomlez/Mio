@@ -1,0 +1,8 @@
+{
+  "name": "Nomlez Anime",
+  "description": "Mis animes espanol",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://codeberg.org/Nomlez/Mio/raw/branch/builds/plugins.json"
+  ]
+}
