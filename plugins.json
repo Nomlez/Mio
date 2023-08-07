@@ -34,7 +34,7 @@
         ],
         "version": 4,
         "internalName": "AnimeflvProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/AnimeflvProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/AnimeflvProvider.cs3",
         "name": "AnimeflvProvider"
     },
     {
@@ -45,7 +45,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Stormunblessed"
+            "Nomlez"
         ],
         "tvTypes": [
             "Anime",
@@ -53,7 +53,7 @@
         ],
         "version": 1,
         "internalName": "AnimensionProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/AnimensionProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/AnimensionProvider.cs3",
         "name": "AnimensionProvider"
     },
     {
@@ -64,12 +64,12 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Stormunblessed"
+            "Nomlez"
         ],
         "version": 7,
         "internalName": "BflixProvider",
         "description": "Webview is used to load links, reload if necessary",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/BflixProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/BflixProvider.cs3",
         "name": "BflixProvider"
     },
     {
@@ -80,7 +80,7 @@
         "status": 0,
         "language": "es",
         "authors": [
-            "Stormunblessed"
+            "Nomlez"
         ],
         "tvTypes": [
             "TvSeries",
@@ -88,7 +88,7 @@
         ],
         "version": 3,
         "internalName": "CinecalidadProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/CinecalidadProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/CinecalidadProvider.cs3",
         "name": "CinecalidadProvider"
     },
     {
@@ -106,7 +106,7 @@
         ],
         "version": 3,
         "internalName": "ComamosRamenProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/ComamosRamenProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/ComamosRamenProvider.cs3",
         "name": "ComamosRamenProvider"
     },
     {
@@ -125,7 +125,7 @@
         ],
         "version": 8,
         "internalName": "CuevanaProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/CuevanaProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/CuevanaProvider.cs3",
         "name": "CuevanaProvider"
     },
     {
@@ -143,7 +143,7 @@
         ],
         "version": 4,
         "internalName": "DoramasFlixProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/DoramasFlixProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/DoramasFlixProvider.cs3",
         "name": "DoramasFlixProvider"
     },
     {
@@ -161,7 +161,7 @@
         ],
         "version": 4,
         "internalName": "DoramasYTProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/DoramasYTProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/DoramasYTProvider.cs3",
         "name": "DoramasYTProvider"
     },
     {
@@ -180,7 +180,7 @@
         ],
         "version": 4,
         "internalName": "ElifilmsProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/ElifilmsProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/ElifilmsProvider.cs3",
         "name": "ElifilmsProvider"
     },
     {
@@ -199,7 +199,7 @@
         ],
         "version": 6,
         "internalName": "EntrepeliculasyseriesProvider",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/builds/EntrepeliculasyseriesProvider.cs3",
+        "url": "https://github.com/Nomlez/Mio/raw/builds/EntrepeliculasyseriesProvider.cs3",
         "name": "EntrepeliculasyseriesProvider"
     },
     {
